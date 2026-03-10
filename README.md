@@ -15,7 +15,7 @@ Este projeto foi desenvolvido para a disciplina de Software Product, com o objet
 
 ## 🔗 Links do Projeto
 * **Board do Projeto:** [COLE O LINK AQUI]
-* **Dashboard Interativo:** [COLE O LINK AQUI]
+* **Dashboard Interativo:** https://lookerstudio.google.com/reporting/3421967f-de49-4edc-bda6-59ab66df94c5
 
 ## 📊 Acompanhamento de Entregas
 
