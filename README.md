@@ -3,10 +3,10 @@
 Este projeto foi desenvolvido para a disciplina de Software Product, com o objetivo de analisar o perfil dos beneficiários do ProUni utilizando uma estrutura de BI (Business Intelligence) com banco de dados persistente.
 
 ## 🛠️ Stack Tecnológica
-* **Banco de Dados:** Google BigQuery (Persistente)
-* **Ingestão de Dados:** Tabela Externa via Google Drive (Federated Query)
+* **Storage:** Google Cloud Storage (Bucket Regional).
+* **Data Warehouse:** Google BigQuery (Native Table).
 * **Ferramenta de BI:** Looker Studio
-* **Fonte de Dados:**Datasets do Kaggle (CSV) - https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019?resource=download
+* **Fonte de Dados:** Datasets do Kaggle (CSV) - https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019?resource=download
 
 ## 📂 Estrutura do Repositório
 * `/dashboard`: Link para o painel interativo e prints das telas.
