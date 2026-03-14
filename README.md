@@ -21,7 +21,7 @@ Este projeto foi desenvolvido para a disciplina de Software Product, com o objet
 
 ### 📍 AC1 - Funcionalidade 1: Distribuição Regional
 * **Objetivo:** Analisar a volumetria de bolsas concedidas por Unidade Federativa (UF).
-* **Status:** -------.
+* **Status:** Concluído.
 * **Técnica:** Agrupamento por `SIGLA_UF_BENEFICIARIO_BOLSA` com filtros temporais integrados.
 ---
 
