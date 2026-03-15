@@ -9,7 +9,8 @@ Este projeto foi desenvolvido para a disciplina de Software Product, com o objet
 * **Fonte de Dados:** Datasets do Kaggle (CSV) - https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019?resource=download
 
 ## 📂 Estrutura do Repositório
-* `/dashboard`: https://lookerstudio.google.com/u/0/reporting/3421967f-de49-4edc-bda6-59ab66df94c5/page/OHerF
+* `dashboard`: https://lookerstudio.google.com/u/0/reporting/3421967f-de49-4edc-bda6-59ab66df94c5/page/OHerF
+* `\prints`: Capturas de tela do projeto .
 * `README.md`: Documentação principal e acompanhamento de entregas.
 * `modelo_de_dados.pdf`: Diagrama solicitado para a Prova Final.
 
