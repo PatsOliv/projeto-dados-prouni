@@ -24,7 +24,11 @@ Este projeto foi desenvolvido para a disciplina de Software Product, com o objet
 * **Objetivo:** Analisar a volumetria de bolsas concedidas por Unidade Federativa (UF).
 * **Status:** Concluído.
 * **Técnica:** Agrupamento por `SIGLA_UF_BENEFICIARIO_BOLSA` com filtros temporais integrados.
----
+
+### 📍 AC2 - Funcionalidade 2: Perfil de Gênero e Raça
+* **Objetivo:** Identificar o perfil demográfico e a representatividade dos beneficiários, mapeando a inclusão social no programa ao longo dos anos.
+* **Status:** Iniciando
+* **Técnica:** Análise multidimensional utilizando as colunas SEXO_BENEFICIARIO_BOLSA e RACA_COR_BENEFICIARIO_BOLSA, com visualização em gráficos de rosca e barras empilhadas para cruzamento de dados.
 
 ## 📊 Modelo de Dados (Requisito Prova Final)
 O modelo segue a estrutura relacional para otimização de consultas de BI.
