@@ -32,7 +32,7 @@ Este projeto foi desenvolvido para a disciplina de Software Product, com o objet
 * **Status:** Concluído.
 * **Técnica:** Análise multidimensional utilizando as colunas SEXO_BENEFICIARIO_BOLSA e RACA_COR_BENEFICIARIO_BOLSA, com visualização em barras empilhadas e gráfico de área para cruzamento de dados.
 
-### 📍 AC3 - Funcionalidade 3: Tipo de Bolsa por Idade
+### 📍 AC3 - Funcionalidade 3: Tipo de Bolsa por Modalidade
 * **Objetivo:** Analisar a relação entre o percentual do benefício (Integral/Parcial) e idade (Range de idades), identificando tendências de oferta.
 * **Status:** Concluído.
 * **Técnica:** Cruzamento de dados entre `TIPO_BOLSA` e `IDADE` utilizando gráficos de série temporal e tabelas dinâmica com mapa de calor.
