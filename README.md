@@ -18,6 +18,7 @@ Este projeto foi desenvolvido para a disciplina de Software Product, com o objet
 * **Board do Projeto:** https://github.com/users/PatsOliv/projects/1/views/1
 * ** AC1 - Dashboard Interativo:** https://lookerstudio.google.com/u/0/reporting/3421967f-de49-4edc-bda6-59ab66df94c5/page/OHerF
 * ** AC2 - Dashboard Interativo:** https://lookerstudio.google.com/u/0/reporting/c4de8f1b-1f49-40bb-935d-bfd8de672def/page/OHerF
+* ** AC3 - Dashboard Interativo:** https://datastudio.google.com/u/0/reporting/a123c204-157a-4f5c-ae36-032345a3cbc3/page/OHerF
 
 ## 📊 Acompanhamento de Entregas
 
@@ -31,10 +32,10 @@ Este projeto foi desenvolvido para a disciplina de Software Product, com o objet
 * **Status:** Concluído.
 * **Técnica:** Análise multidimensional utilizando as colunas SEXO_BENEFICIARIO_BOLSA e RACA_COR_BENEFICIARIO_BOLSA, com visualização em barras empilhadas e gráfico de área para cruzamento de dados.
 
-### 📍 AC3 - Funcionalidade 3: Tipo de Bolsa por Modalidade
-* **Objetivo:** Analisar a relação entre o percentual do benefício (Integral/Parcial) e o formato de ensino (Presencial/EAD), identificando tendências de oferta.
-* **Status:** Iniciando.
-* **Técnica:** Cruzamento de dados entre `TIPO_BOLSA` e `MODALIDADE_ENSINO_BOLSA` utilizando gráficos de colunas empilhadas e tabelas de pivot para análise de proporção.
+### 📍 AC3 - Funcionalidade 3: Tipo de Bolsa por Idade
+* **Objetivo:** Analisar a relação entre o percentual do benefício (Integral/Parcial) e idade (Range de idades), identificando tendências de oferta.
+* **Status:** Concluído.
+* **Técnica:** Cruzamento de dados entre `TIPO_BOLSA` e `IDADE` utilizando gráficos de série temporal e tabelas dinâmica com mapa de calor.
 
 ## 📊 Modelo de Dados (Requisito Prova Final)
 O modelo segue a estrutura relacional para otimização de consultas de BI.
