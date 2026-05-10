@@ -5,7 +5,7 @@ Este projeto foi desenvolvido para a disciplina de Software Product, com o objet
 ## 🛠️ Stack Tecnológica
 * **Storage:** Google Cloud Storage (Bucket Regional).
 * **Data Warehouse:** Google BigQuery (Native Table).
-* **Ferramenta de BI:** Looker Studio
+* **Ferramenta de BI:** Data Studio (antigo Looker Studio)
 * **Fonte de Dados:** Datasets do Kaggle (CSV) - https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019?resource=download
 
 ## 📂 Estrutura do Repositório
