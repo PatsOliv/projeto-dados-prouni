@@ -37,10 +37,24 @@ Este projeto foi desenvolvido para a disciplina de Software Product, com o objet
 * **Status:** Concluído.
 * **Técnica:** Cruzamento de dados entre `TIPO_BOLSA` e `IDADE` utilizando gráficos de série temporal e tabelas dinâmica com mapa de calor.
 
-## 📊 Modelo de Dados (Requisito Prova Final)
-O modelo segue a estrutura relacional para otimização de consultas de BI.
+## 📊 Modelo de Dados
+
+### 📐 Modelo Entidade-Relacionamento (MER)
+
+Para a modelagem de dados deste projeto, optou-se por uma estrutura de **Tabela Única (Flat Table / Tabela Desnormalizada)**. Por se tratar de um ambiente de Data Warehouse voltado para Analytics (BigQuery) focado no consumo direto pelo Looker Studio, não há relacionamentos com outras tabelas externas. Toda a carga de dados histórica (2005-2019) foi consolidada em uma única entidade de granularidade máxima, o que otimiza a performance das consultas, elimina a necessidade de operações de `JOIN` e garante latência zero na renderização dos filtros do dashboard.
+
+![Modelo MER do Projeto](evidencias/modelo_mer.png)
+
+.
+.
+.
+.
+.
+
+
 
 ### 📋 Dicionário de Dados e Engenharia do Modelo Relacional
+
 
 | Nome do Campo (Atributo) | Tipo no BigQuery | Função Individual no Modelo Relacional / Analítico |
 | :--- | :--- | :--- |
