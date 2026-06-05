@@ -12,7 +12,7 @@ Este projeto foi desenvolvido para a disciplina de Software Product, com o objet
 * `dashboard`: Visualização das funcionalidades.
 * `\prints`: Capturas de tela do projeto .
 * `README.md`: Documentação principal e acompanhamento de entregas.
-* `modelo_de_dados.pdf`: Diagrama solicitado para a Prova Final.
+* `modelo_de_dados.png`: Diagrama solicitado para a Prova Final.
 
 ## 🔗 Links do Projeto-
 * **Board do Projeto:** https://github.com/users/PatsOliv/projects/1/views/1
@@ -43,7 +43,7 @@ Este projeto foi desenvolvido para a disciplina de Software Product, com o objet
 
 Para a modelagem de dados deste projeto, optou-se por uma estrutura de **Tabela Única (Flat Table / Tabela Desnormalizada)**. Por se tratar de um ambiente de Data Warehouse voltado para Analytics (BigQuery) focado no consumo direto pelo Looker Studio, não há relacionamentos com outras tabelas externas. Toda a carga de dados histórica (2005-2019) foi consolidada em uma única entidade de granularidade máxima, o que otimiza a performance das consultas, elimina a necessidade de operações de `JOIN` e garante latência zero na renderização dos filtros do dashboard.
 
-![Modelo MER do Projeto](evidencias/modelo_mer.png)
+![Modelo MER do Projeto](prints/modelo_de_dados.png)
 
 .
 .
