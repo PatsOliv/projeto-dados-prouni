@@ -19,6 +19,7 @@ Este projeto foi desenvolvido para a disciplina de Software Product, com o objet
 * ** AC1 - Dashboard Interativo:** https://lookerstudio.google.com/u/0/reporting/3421967f-de49-4edc-bda6-59ab66df94c5/page/OHerF
 * ** AC2 - Dashboard Interativo:** https://lookerstudio.google.com/u/0/reporting/c4de8f1b-1f49-40bb-935d-bfd8de672def/page/OHerF
 * ** AC3 - Dashboard Interativo:** https://datastudio.google.com/u/0/reporting/a123c204-157a-4f5c-ae36-032345a3cbc3/page/OHerF
+* ** AC4 - 
 
 ## 📊 Acompanhamento de Entregas
 
@@ -36,6 +37,11 @@ Este projeto foi desenvolvido para a disciplina de Software Product, com o objet
 * **Objetivo:** Analisar a relação entre o percentual do benefício (Integral/Parcial) e idade (Range de idades), identificando tendências de oferta.
 * **Status:** Concluído.
 * **Técnica:** Cruzamento de dados entre `TIPO_BOLSA` e `IDADE` utilizando gráficos de série temporal e tabelas dinâmica com mapa de calor.
+
+### 📍 AC4 - Prova Final: Ranking de Cursos e Modelagem
+* **Objetivo:** Identificar os cursos com maior volumetria de bolsas concedidas no país e apresentar a estrutura arquitetural dos dados.
+* **Status:** Iniciando.
+* **Técnica:** Criação de gráficos de barras horizontais (Top 10 Cursos) com ordenação decrescente no Data Studio( Antigo Looker Studio), acompanhado do Modelo Entidade-Relacionamento (MER) estrutural do projeto.
 
 ## 📊 Modelo de Dados
 
